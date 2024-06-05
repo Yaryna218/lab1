@@ -116,4 +116,4 @@ function triangle(element1, type1, element2, type2){
 
 }
 
-console.log(tringle(10,"leg",5,"leg"));
+console.log(triangle(10,"leg",5,"leg"));
