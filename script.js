@@ -1,4 +1,4 @@
-function tringle(element1, type1, element2, type2){
+function triangle(element1, type1, element2, type2){
     const validTypes=["leg", "hypotenuse", "adjacent angle", "opposite angle", "angle"];
     if(!validTypes.includes(type1)|| !validTypes.includes(type2)){
         console.log("Не првильно введений тип");
